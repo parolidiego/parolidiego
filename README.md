@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm a MCSS student at UC3M
+Graduate in Economics and Social Sciences at Bocconi Univeristy. Former exchange student at University of Victoria (BC), Canada.
+I'm currently pursuing a Master in Computational Social Sciences at Universidad Carlos III de Madrid.
+
+I like stats and data especially when applied to politics, economics, sports and music.
 
 <!--
 **parolidiego/parolidiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
