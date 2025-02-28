@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Graduate in Economics and Social Sciences at Bocconi Univeristy. Former exchange student at University of Victoria (BC), Canada.
+
 I'm currently pursuing a Master in Computational Social Sciences at Universidad Carlos III de Madrid.
 
 I like stats and data especially when applied to politics, economics, sports and music.
