@@ -22,7 +22,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parolidiego)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-paroli)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/parolidiego.bsky.social)
+[![Website](https://img.shields.io/badge/Website-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parolidiego.github.io/website/)
 
 [![Email](https://img.shields.io/badge/Email-parolidiego%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parolidiego@gmail.com)
 
@@ -38,26 +38,14 @@
 
 ### 🔍 My work:
 
-#### Thesis
 
-- Effectiveness of European Regional Development Funds in reducing unemployment: a temporal analysis**  
-
-| [📄 Download my paper](URL_TO_PAPER) | [💻 View my analysis](https://parolidiego.github.io/TFM-ERDF-unemployment/) |
-|--------------------------------------|--------------------------------|
-- Debt, highly indebted poor countries and economic growth
-
-#### Research projects
-
-* Text mining analysis of EU State Of The Union speeches
-* Support for transgender rights
-
-#### Essays
 
 ---
 
 ### 🎵 Bonus track:
 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11138881525?si=efe8d24af0ae47da)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/parolidiego.bsky.social)
 
 
 <!--
