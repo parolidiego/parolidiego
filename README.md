@@ -30,9 +30,28 @@
 
 ### ⭐ Skills:
 
+`Data Analysis` `Machine Learning` `Data Visualization` `Text Mining` `Web Scraping`
+
+`Statistics` `Econometrics` `Research Design` `Causal Inference` `Policy Evaluation`
+
 ---
 
 ### 🔍 My work:
+
+#### Thesis
+
+- Effectiveness of European Regional Development Funds in reducing unemployment: a temporal analysis**  
+
+| [📄 Download my paper](URL_TO_PAPER) | [💻 View my analysis](https://parolidiego.github.io/TFM-ERDF-unemployment/) |
+|--------------------------------------|--------------------------------|
+- Debt, highly indebted poor countries and economic growth
+
+#### Research projects
+
+* Text mining analysis of EU State Of The Union speeches
+* Support for transgender rights
+
+#### Essays
 
 ---
 
